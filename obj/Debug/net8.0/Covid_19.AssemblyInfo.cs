@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Covid_19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdafd764c9ff0725ff1604a5ab2643220f0ec5e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Covid_19")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Covid_19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
